@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { Command } from 'commander';
-import type { Config } from './init';
+import type { Config } from './init.js';
 
 export const helloCommand = new Command('hello')
   .description('Say hello to someone.')

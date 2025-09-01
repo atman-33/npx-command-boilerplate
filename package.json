@@ -1,6 +1,7 @@
 {
   "name": "npx-command-boilerplate",
   "version": "0.1.0",
+  "type": "module",
   "description": "",
   "author": "atman-33",
   "license": "",
